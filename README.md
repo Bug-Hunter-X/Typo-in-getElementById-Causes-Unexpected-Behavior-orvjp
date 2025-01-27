@@ -1,0 +1,1 @@
+This repository demonstrates a common yet easily overlooked error in HTML and JavaScript interaction. The bug is a simple typo in the getElementById function call that causes the intended behavior to fail. The solution corrects this typo, highlighting the importance of careful coding and thorough testing.
